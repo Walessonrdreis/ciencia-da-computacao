@@ -1,3 +1,2 @@
-# s.i
-s.i descomplica
-# teste
+# Graduação Ciência da computação
+
