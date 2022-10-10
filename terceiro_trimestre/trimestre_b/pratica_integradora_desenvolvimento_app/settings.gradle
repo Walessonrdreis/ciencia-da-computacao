@@ -13,4 +13,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "aula3"
-include ':app'
+include ':aula3'
+include ':aula2'
